@@ -16,8 +16,10 @@
 body {
     height: 100vh;
     font-family: "robotoslab-variablefont_wght-webfont", sans-serif;
-    overflow-x: hidden;
+}
 
+html, body {
+    overflow-x: hidden;
 }
 img {
     max-width: 100%;
