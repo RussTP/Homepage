@@ -34,8 +34,8 @@ img {
     position: absolute;
     left: 50%;
     top: 2%;
-    width: 23rem;
     height: 24rem;
+    width: min(23rem, 75vw);
     border-bottom-right-radius: 25rem;
     border-top-right-radius: 2rem;
     border-top-left-radius: 1rem;
