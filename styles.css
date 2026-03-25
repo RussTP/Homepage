@@ -16,11 +16,13 @@
 body {
     height: 100vh;
     font-family: "robotoslab-variablefont_wght-webfont", sans-serif;
-}
-
-html, body {
     overflow-x: hidden;
 }
+
+#hero {
+    overflow: hidden;
+}
+
 img {
     max-width: 100%;
 }
